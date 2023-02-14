@@ -14,3 +14,7 @@
  *
  * export default test;
  */
+
+const divide = (num1, num2) => num1 / num2;
+
+export default divide;
